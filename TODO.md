@@ -1,0 +1,6 @@
+- [x] character card parsing
+- [x] lorebooks/injection manager parsing
+- [ ] instruction prompt formatting
+- [ ] jinja parser
+- [ ] chat completions formatting
+- [ ] macro callback support
